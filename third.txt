@@ -1,6 +1,3 @@
 this is the second file.
 
 add text
-
-
-3434343
